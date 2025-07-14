@@ -39,5 +39,20 @@
 
 ---
 
-## 📂 Folder Structure
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Modern web browser (Chrome, Firefox, Edge)  
+- Local web server (recommended for file handling)
+
+### Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/purvansh0308/TuneBox-.git
+   cd TuneBox-
+
 

@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-![TuneBox Preview](https://github.com/purvansh0308/TuneBox-/raw/master/img/Screenshot%202025-07-15%20014716.png)
+![TuneBox Preview](https://github.com/purvansh0308/TuneBox-/blob/master/img/Screenshot%202025-07-15%20103952.png).
 
 
 ---
